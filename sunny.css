@@ -248,6 +248,9 @@ a {
 	.hamburger{
 		display: block;
 	}
+    .box-2{
+        order: -1;
+    }
 	nav ul {
 		display: none;
 	}
